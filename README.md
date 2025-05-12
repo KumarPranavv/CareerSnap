@@ -39,12 +39,11 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Starting UI
 
 
 
-![CareerSnap](https://raw.githubusercontent.com/KumarPranavv/CareerSnap/main/screenshots/overview.png)  
-*Home Page*
+![Image](https://github.com/user-attachments/assets/d5445bcd-826d-44bc-9418-b661020887dc)  
 
 
 ---
