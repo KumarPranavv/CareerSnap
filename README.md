@@ -41,22 +41,11 @@
 
 ## 📸 Screenshots
 
-<details>
-<summary>Click to expand</summary>
 
-![Overview Tab](https://raw.githubusercontent.com/KumarPranavv/CareerSnap/main/screenshots/overview.png)  
-*Profile overview & keyword suggestions*
 
-![ATS Score Tab](https://raw.githubusercontent.com/KumarPranavv/CareerSnap/main/screenshots/ats_score.png)  
-*ATS compatibility metric & improvement tips*
+![CareerSnap](https://raw.githubusercontent.com/KumarPranavv/CareerSnap/main/screenshots/overview.png)  
+*Home Page*
 
-![Skill Gap Tab](https://raw.githubusercontent.com/KumarPranavv/CareerSnap/main/screenshots/skill_gap.png)  
-*Domain skill-gap and certification advice*
-
-![Projection Tab](https://raw.githubusercontent.com/KumarPranavv/CareerSnap/main/screenshots/projection.png)  
-*Future career projection & emerging skills*
-
-</details>
 
 ---
 
