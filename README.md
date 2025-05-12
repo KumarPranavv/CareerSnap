@@ -2,8 +2,8 @@
 
 > **Transform your resume & LinkedIn profile with AI-driven insights, ATS optimization, skill-gap analysis, and future career projection.**
 
-![CareerSnap Pro Banner](https://github.com/user-attachments/assets/05302cd7-49d5-44bc-ac36-8ead63e979a4)
-
+![CareerSnap Pro Banner](https://github.com/user-attachments/assets/05302cd7-49d5-44bc-ac36-8ead63e979a4)<br>
+-**Access this: https://careersnap.streamlit.app**
 ---
 
 ## 🌟 Key Features
